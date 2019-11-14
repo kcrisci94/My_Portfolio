@@ -70,7 +70,7 @@ h3 {
 /*PROJECTS SECTION*/
 #projects{
     width: 100vw;
-    background-image: url("../pictures/stars.jpg");
+    background: rgba(204, 82, 33, 0.87);
     padding-bottom: 20px;
     #portfolioDisplay {
         max-width: 80%;
@@ -94,6 +94,7 @@ h3 {
                 margin-bottom: 10px;
                 border: 2px solid rgba(247, 239, 204, 0.945);
                 text-align: center;
+                padding: 5px;
                 background-color: rgb(88, 70, 87);
                 &:hover {
                     background-color: rgba(247, 124, 75, 0.199);

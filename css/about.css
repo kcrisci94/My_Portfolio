@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: rgba(204, 82, 33, 0.87);
+  height: 100%;
+}
+
+.hobbies {
+  max-width: 80%;
+  height: 60%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgba(88, 70, 87, 0.9);
+  border-radius: 30px;
+  font-size: 1.3em;
+  color: rgba(204, 173, 202, 0.9);
+}
+
+.hobbies p {
+  padding: 10px;
+  margin: 10px;
+  text-indent: 30px;
+}
+/*# sourceMappingURL=about.css.map */

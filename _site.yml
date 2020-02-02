@@ -1,0 +1,24 @@
+name: "Kaleb's Portfolio"
+output_dir: "."
+navbar:
+  title: "My Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: project.html
+    - text: "Tutorials"
+      href: tutorials.html
+  right:
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/kcrisci94
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/CrisciKaleb
+    - text: "Contact"
+      href: index.html#contact
+output:
+    html_document:
+       theme: darkly  
+       css: css/style.css

@@ -1,0 +1,51 @@
+---
+title: "My Projects"
+output: html_document
+---
+```{r echo=FALSE, message=FALSE, warning="FALSE"}
+#install.packages("pander")
+library(pander)
+library(dplyr)
+library(tidyverse)
+library(kableExtra)
+library(reshape2)
+```
+
+
+## Data Science {.main-heading}  
+
+```{r echo=FALSE, message=FALSE, warning="FALSE"}
+projs <- read.table("projectsList.csv", sep="\t", header=TRUE)
+projs <- as.data.frame(projs)
+projectNames <- projs$Project
+projectHyperlinks <- projs$Link
+projectDesc <- projs$Description
+```
+<section class="project_Table">
+
+<a href="`r projectHyperlinks[1]`"> `r projectNames[1]`</a>
+<p class="description">`r projectDesc[1]`</p>
+
+</section>
+
+## Web Development {.main-heading}
+
+```{r echo=FALSE, message=FALSE, warning="FALSE"}
+web <- read.table("webList.csv", sep="\t", header=TRUE)
+web <- as.data.frame(web)
+webNames <- web$Project
+webHyperlinks <- web$Link
+webDesc <- web$Description
+```
+
+<section class="project_Table">
+<a href="`r webHyperlinks[1]`"> `r webNames[1]`</a>
+<p class="description">`r webDesc[1]`</p>
+
+
+<a href="`r webHyperlinks[2]`"> `r webNames[2]`</a>
+<p class="description">`r webDesc[2]`</p>
+
+<a href="`r webHyperlinks[3]`"> `r webNames[3]`</a>
+<p class="description">`r webDesc[3]`</p>
+</section>

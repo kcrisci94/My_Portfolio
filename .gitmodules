@@ -1,0 +1,3 @@
+[submodule "mytutorials"]
+	path = mytutorials
+	url = https://github.com/kcrisci94/mytutorials.git

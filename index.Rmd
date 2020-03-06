@@ -4,6 +4,9 @@ title: "Kaleb Crisci"
 <div id="main_flex">
 ![](pics/Me17.jpg){#mainIMG}
 
+<center>
+## Computer Scientist & Data Scientist  
+</center>
 <section id="about">  
 
 # About Me {.main-heading}
@@ -15,11 +18,13 @@ This is my personal website to host all of my major projects.
 </section>
 </div>  
 
-***  
+ 
+<section id="contact">
 <center>
-# Contact {#contact .main-heading}
+# Contact {.main-heading}
 </center>
 <div id="contact_info">
+
 <div style="width:30%;">
 ### Phone: {#phone .heading2}  
 530 925-2120
@@ -30,4 +35,4 @@ kcrisci@mail.csuchico.edu
 </div>
 </div>
 
-
+</section>

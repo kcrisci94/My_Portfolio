@@ -4,16 +4,23 @@ html{
 body{
   height: inherit;
 }
+h2{
+  font-size: 130%;
+}
 #mainIMG{
   border-radius:40%;
   height:210px;
   width: 150px;
   padding: 5px;
+  margin: auto;
+}
+#main_flex > :first-child{
+  text-align: center;
+  display: block;
 }
 #about{
-  width: 60%;
-  height: 100%;
-  margin-right: 0px;
+  width: 100%;
+  height: 50%;
   padding: 5px;
 }
 #about p{
@@ -22,11 +29,19 @@ body{
 }
 #main_flex{
   display: flex;
-  justify-content: space-between;
-  width: 100%;
-  height: inherit;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  height: 60%;
+  margin: auto;
+  margin-bottom: 50%;
 }
+#contact {
+  display: flex;
+  flex-direction: column;
+  height: 16%;
 
+}
 #contact_info{
   display: flex;
   justify-content: space-around; 
@@ -46,6 +61,13 @@ body{
 }
 #links{
   font-size: 100%;
+}
+#header.fluid-row{
+  width: 100%;
+  text-align: center;
+}
+.title{
+  padding-bottom: 20px;
 }
 .main-container{
   height:100%;
@@ -68,5 +90,4 @@ body{
   width: 90%;
   margin: auto;
   padding: 10px;
-}
 }

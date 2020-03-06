@@ -31,7 +31,7 @@ projectDesc <- projs$Description
 ## Web Development {.main-heading}
 
 ```{r echo=FALSE, message=FALSE, warning="FALSE"}
-web <- read.table("webList.csv", sep="\t", header=TRUE)
+web <- read.table("./project_files/webList.csv", sep="\t", header=TRUE)
 web <- as.data.frame(web)
 webNames <- web$Project
 webHyperlinks <- web$Link

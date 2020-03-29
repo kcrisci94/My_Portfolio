@@ -1,3 +1,4 @@
-[submodule "[--force]"]
-	path = [--force]
-	url = https://github.com/kcrisci94/mytutorials.git
+
+[submodule "mytutorials"]
+	path = mytutorials
+	url = git@github.com:kcrisci94/mytutorials.git

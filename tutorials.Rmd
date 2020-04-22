@@ -15,7 +15,12 @@ A short tutorial on how to use the search_users() function that is part of the *
 </p>  
 [Get Historical Tweets - Twitter Dev Account](./mytutorials/twitterHistoricalTweets.html){target="_blank"}  
 <p class="description">
-A detailed tutorial about how to access the Twitter API and pull tweets from as early as March 2006. Normally, tweets are only available from the last 30 days.
+A detailed tutorial on how to access the Twitter API and pull tweets from as early as March 2006. Normally, tweets are only available from the last 30 days.
+</p>  
+
+[Twitter API Request Using CURL ](./mytutorials/twitter_curl_query.html){target="_blank"}  
+<p class="description">
+A short tutorial on how to access the Twitter API and submit a query using a `curl` request. 
 </p>  
 
 </section>

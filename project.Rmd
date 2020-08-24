@@ -15,16 +15,20 @@ library(reshape2)
 ## Data Science {.main-heading}  
 
 ```{r echo=FALSE, message=FALSE, warning="FALSE"}
-projs <- read.table("projectsList.csv", sep="\t", header=TRUE)
-projs <- as.data.frame(projs)
-projectNames <- projs$Project
-projectHyperlinks <- projs$Link
-projectDesc <- projs$Description
+projectNames <- c("Air Pollution", "Student Housing Insecurity")
+
+projectHyperlinks <- c("https://introdsci.github.io/DataScience-kcrisci94/index", "https://kcrisci94.github.io/MATH456Project/")
+
+projectDesc <- c("This project uses a collection of measurements on harmful particles in the atmosphere at several different locations in California. It uses this data to determine which geographic locations have the highest levels of air pollution. It then uses populations in those general regions to determine if population has an affect on the air pollution levels.", 
+                 "This project builds on a previous study by Dr. Wilking in 2019 about the housing insecurity and homelessness of students in recent years. It also focuses on how the Camp Fire impacted the students' housing situations. The goal of this study was to try to reproduce the findings of Dr. Wilking, and then take a look at how missing data affects the results of the study.")
 ```
 <section class="project_Table">
 
 <a href="`r projectHyperlinks[1]`"> `r projectNames[1]`</a>
 <p class="description">`r projectDesc[1]`</p>
+
+<a href="`r projectHyperlinks[2]`"> `r projectNames[2]`</a>
+<p class="description">`r projectDesc[2]`</p>
 
 </section>
 

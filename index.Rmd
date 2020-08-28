@@ -1,6 +1,7 @@
 ---
 title: "Kaleb Crisci"
 ---
+<section id="body1">
 <div id="basic">
 ![](pics/Me17.jpg){#mainIMG}   
 
@@ -24,8 +25,8 @@ After graduation, I plan to pursue a career in application design, artificial in
 <h1 class="main-heading">Credentials</h1>  
 
 * Bachelor's Degree in Computer Science (2021)   
-  + Minor in Mathematics   
-  + Certificate in Data Science   
+* Minor in Mathematics (2021)  
+* Certificate in Data Science (2021)  
 * Associate's Degree in Liberal Arts, Math & Science (2018)   
 * CompTIA Security Plus Certificate (in progress)   
 * Certificate in Responsive Web Design (2017)   
@@ -35,28 +36,25 @@ After graduation, I plan to pursue a career in application design, artificial in
 <section id="skills">
 <h1 class="main-heading">Skills</h1>
 
-* Programming
-  + C++, Python, R, Java
-* Web Development   
-  + HTML, JavaScript, CSS  
-  + React, Express, NodeJS, MySQL   
+* Programming: C++, Python, R, Java
+* Web Development: HTML, CSS, Javascript 
+* Web Programming: React, Express, NodeJS, MySQL   
 
 </section>
-</div>
 
+</div>
  
 <section id="contact">
 <h1 class="main-heading">Contact</h1>
 
 <div id="contact_info">
 <div style="width:30%;">
-<h2 id="phone" class="heading2">Phone</h2>
-<p>530 925-2120</p>
+<p>Phone: <span id="number">(530) 925-2120</span></p>
 </div>
 <div style="width:35%;">
-<h2 id="email" class="heading2">Email</h2>
-<p>kcrisci@mail.csuchico.edu</p> 
+<p>Email: <span id="emailaddr">kcrisci94@gmail.com</span></p>
 </div>
 </div>
 
+</section>
 </section>

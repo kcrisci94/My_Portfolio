@@ -4,7 +4,7 @@ body{
   --header-color: rgb(121, 121, 121);
   --color-1: white;
   --color-2: #003355;
-  --color-3: hsl(120, 100%, 50%);
+  --color-3: red;
 }
 html{
   height: 100%;
@@ -87,31 +87,27 @@ body{
   width: 30%;
 }
 #credentials{
-  width: 50%;
+  width: 40%;
 }
 
 /*Contact*/
 #contact{
-  position: absolute; 
-  bottom: 0px;
-  right: 0px;
-  background-color: var(--nav-back);
-  width: 100%;
   height: 12%;
-  text-align: center;
+  max-width: 30%;
+  margin-left: 60px;
+  margin-top: 40px;
 }
 #contact h1{
   margin: 0;
   margin-top: 6px;
 }
 #contact_info{
-  display: flex;
-  justify-content: space-around; 
-  width:100%;
-  margin-bottom: 0px;
+  
 }
 #contact_info p{
   color: var(--color-3);
+  padding: 0;
+  margin: 0;
 }
 #contact h2{
   color: var(--color-2);
@@ -125,7 +121,10 @@ body{
 #body1 h2{
   font-size: 130%;
 }
-
+#contact .main-heading{
+  font-size: 1.5em !important;
+  padding-bottom: 6px;
+}
 
 
 #main_flex > :first-child{
@@ -162,8 +161,8 @@ body{
   padding-bottom: 20px;
 }
 .main-container{
-  min-height: 88%;
-  max-width: 89% !important;
+  min-height: 100%;
+  width: 89% !important;
   margin: 0;
   background-color: var(--background-color);
   padding: 0px;
@@ -188,6 +187,12 @@ body{
   width: 90%;
   margin: auto;
   padding: 10px;
+}
+
+#number, #emailaddr {
+   font-weight: 7; 
+   color: black;
+   padding-right: 10px;
 }
 
 @media only screen and (max-width: 995px) {

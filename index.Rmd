@@ -44,17 +44,13 @@ After graduation, I plan to pursue a career in application design, artificial in
 
 </div>
  
-<section id="contact">
-<h1 class="main-heading">Contact</h1>
+<aside id="contact">
+<h1 class="main-heading">Contact Info</h1>
 
 <div id="contact_info">
-<div style="width:30%;">
-<p>Phone: <span id="number">(530) 925-2120</span></p>
-</div>
-<div style="width:35%;">
-<p>Email: <span id="emailaddr">kcrisci94@gmail.com</span></p>
-</div>
+<p><span id="number">Phone:</span> (530) 925-2120</p>
+<p><span id="emailaddr">Email:</span>kcrisci94@gmail.com</p>
 </div>
 
-</section>
+</aside>
 </section>

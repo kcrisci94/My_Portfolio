@@ -32,7 +32,7 @@ projectDesc <- c("This project uses a collection of measurements on harmful part
 
 </section>
 
-## Web Development {.main-heading}
+## Web Design {.main-heading}
 
 ```{r echo=FALSE, message=FALSE, warning="FALSE"}
 web <- read.table("./project_files/webList.csv", sep="\t", header=TRUE)
@@ -53,4 +53,7 @@ webDesc <- web$Description
 <a href="`r webHyperlinks[3]`"> `r webNames[3]`</a>
 <p class="description">`r webDesc[3]`</p>
 </section>
+
+
+
 </section>

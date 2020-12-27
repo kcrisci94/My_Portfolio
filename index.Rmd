@@ -36,9 +36,9 @@ After graduation, I plan to pursue a career in application design, artificial in
 <section id="skills">
 <h1 class="main-heading">Skills</h1>
 
-* Programming: C++, Python, R, Java
-* Web Development: HTML, CSS, Javascript 
-* Web Programming: React, Express, NodeJS, MySQL   
+* **Programming:** C, C++, Python, R, Java
+* **Web Development:** HTML, CSS, Javascript 
+* **Web Programming:** React, Express, NodeJS, MySQL, Django, AWS
 
 </section>
 

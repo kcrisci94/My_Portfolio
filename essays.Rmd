@@ -1,0 +1,11 @@
+---
+title: "Essays.Rmd"
+---
+
+## Philosophy of Science {.main-heading}   
+<section class="project_Table">
+[Orbital Variance and Global Climate Change](./essays/global_climate_change.html){target="_blank"}  
+<p class="description">
+This essay addresses the idea of Global Climate Change in relation to Orbital Variance. It describes the discoveries made by scientists and criticizes the methods and logic used by these scientists based on the definitions of Science as stated by philosophers Carl Hempel and David Hume.   
+</p>
+</section>

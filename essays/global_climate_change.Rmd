@@ -1,0 +1,40 @@
+---
+title: "Orbital Variance & Global Climate Change"
+author: "Kaleb Crisci"
+date: "3/12/2022"
+output: html_document
+---  
+
+Philosophy of Science has long been concerned with what science is, how it should be thought about, and what it can tell us about the world. Many well-known philosophers such as Hume, and Hempel to name a few, have presented their ideas which helped to evolve the idea of science into what it is today. It is important to understand that it was the goal of these philosophers to come up with the most useful definition of science, one which would be able to explain the vast complexity of the universe. While most of these philosophers had varying ideas about what science was and how it should be conducted, each of their ideas had great influence and were incorporated into practice by scientists all over the world. In The Discovery of Global Warming, Spencer R. Weart describes the long process of discovering global warming, including several studies and experiments performed by scientists of many different fields. The results of many of these studies have become accepted by a large portion of the scientific community. In this essay, I will discuss one study mentioned by Weart, and why the results should not be accepted so freely.   
+
+The theory in question came from a 1976 analysis of a deep-sea ice capsule pulled from the Indian Ocean. A scientist named Nicholas Shackelton applied a new technique for determining the timeframe that was depicted in the ice. Carbon dating could not be used due to the rate of decay being too rapid to measure dates past fifty to sixty thousand years, so Shackelton analyzed the radioactive potassium instead, which has a much slower rate of decay. He discovered that not only did the ice date back over a million years, but that there had been dozens of ice ages with varying cycle lengths ranging from twenty to one hundred thousand years long. One of these cycles in particular lines up perfectly with a calculation by astronomers at the time, the “precession of the equinoxes,” or the wobbling of the Earth’s axis (Weart 73). These discoveries led to the potentially false theory that orbital variation acts as a pacemaker for major shifts in global climate.   
+
+There are a few reasons why this theory could be considered inaccurate or non-scientific. My core argument is that in truth, we do not know any details about what the planet was like a million years ago. In Philosophy of Natural Science, Carl Hempel describes the fallacy of affirming the consequent. In this method of reasoning, we say that if A is true, then so is B. We then observe that B is true, so we conclude that A must also be true. This form of reasoning does not constitute a deductively valid argument, as there could be (and likely are) other instances C that are not A’s, but that are B’s (Hempel 7). This is the type of reasoning we use in order to understand the environment on Earth a million years ago. Another study that Weart describes in his book talks about how scientists arrived at their current understanding of Earth’s ancient conditions. By analyzing ancient pollens, they were able to determine which plants were living at a particular time, and therefore what the conditions must have been like for those plants to exist, based on what conditions are currently required to support them. So our new statement would be If the environment were this particular set of conditions, we could expect to find these pollens. We found these pollens, so we conclude that the environment has that particular set of conditions. We can see that this statement follows the same logical form and is therefore not deductively valid.   
+
+The above argument may also imply that the rate of decay of radioactive potassium is not a reliable method to provide an accurate timeline. Because we don’t know the conditions of the planet a million years ago, we make the assumption that radioactive potassium will decay at the same rate during all sets of conditions, as we do not know which specific conditions to test. This is a type of inductive reasoning. The statement would have the form, Radioactive potassium decays at a constant rate during all currently tested sets of conditions. Therefore radioactive potassium decays at a constant rate during all sets of conditions. As mentioned by Hempel in Hempel on Induction, statements such as these are deductively invalid, because the premise does not guarantee truth of the conclusion (Hempel 10). There could be one or more sets of conditions that have not been tested that change the rate of decay, meaning that the entire dating system could be flawed. Our lack of understanding of the history of Earth’s environment prevents scientists from being able to determine which specific set of conditions should be tested. The true timeframe of the ice may show that the ice ages do not in fact line up with the precession of the equinoxes, which would disprove the entire theory.   
+
+Furthermore, there is an issue with the reasoning used by scientists to lead them to the conclusion that orbital variance acts as a pacemaker for major global climate shifts. For example, let’s assume that all the above assumptions and tests are correct and accurate. Simply because one ice age lines up with the calculated precession of the equinoxes should not be a basis to conclude that the wobble of the Earth causes the ice ages. This issue of cause and effect is documented by Hume in Inquiry Concerning Human Understanding. “The qualities of an object that appear to the senses never reveal the causes that produced the object or the effects that it will have…” (Hume 12). Although the calculated dates and temperatures seem to line up, we cannot make the assumption that one causes the other, or that the two are even interrelated. It seems just as likely that the ice ages are caused by internal natural processes on Earth, and that the lining up of dates is merely coincidence.   
+
+There are those who may claim that even though we cannot be certain about what the environment was like all those years ago, we do have enough evidence to accept this theory. For example, they would suggest that the studies on pollen, the temperatures estimated during analysis of the ice capsule, and the matching up of global temperatures measured from other ice capsules from different parts of the globe provide enough evidence to make a conclusion about what the environment was like. However, it does not matter how many observations there are that support a particular claim if the argument is not deductively valid. There could be an infinite amount of observations that support the conclusion and still be deductively invalid. For example, the logic used here would be as follows: if A is true, then B, C, and D must also be true. However, there could be another conclusion E which is supported by B, C, and D as well, but that conflicts with A (Hempel).    
+	In conclusion, the idea that the Earth’s orbital variation causes the major global climate changes on Earth is fundamentally flawed. As illustrated in the writings of Hempel, it is impossible to verify that the tests and studies performed that led to this idea are accurate. The very core of our understanding of what the environment was like on Earth long before humans utilizes an invalid form of reasoning. The studies that were performed on the ice are potentially flawed, and even the conclusion drawn from these studies is based on the cause and effect principle, which according to Hume is an invalid approach to science. The ideas presented by Hempel are sufficient not to disprove the overall theory that scientists believe is correct, but they do introduce a level of uncertainty in the discovery that should discourage many from fully accepting it.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sources:   
+
+Weart, S. R. (2008). The discovery of global warming. Cambridge, Mass: Harvard University Press.   
+
+Hempel, Carl G.  (1966).  Philosophy of Natural Science.  Englewood Cliffs, NJ: Prentice-Hall   
+
+Hume, D., & Millican, P. F. (2007). An enquiry concerning human understanding. Oxford: Oxford University Press.   

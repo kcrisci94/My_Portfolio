@@ -9,7 +9,7 @@ navbar:
       href: project.html
     - text: "Tutorials"
       href: tutorials.html
-      text: "Essays"
+    - text: "Essays"
       href: essays.html
     - text: "Personal Blogs"
       href: myBlogs.html

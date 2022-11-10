@@ -30,5 +30,9 @@ A short tutorial on how to access the Twitter API and submit a query using a `cu
 <p class="description">
 A short tutorial with the command line options to run, stop, or remove mongodb from ubuntu system.  
 </p>   
+[Creating a New Django/Docker Project ](./mytutorials/setup_docker_django.html){target="_blank"}   
+<p class="description">
+A short tutorial on how to get the Docker starter code, and then create a new Django Project.
+</p>   
 </section>
 
